@@ -1,0 +1,355 @@
+idbase;nombre_barco;nombre_puerto_origen;nombre_puerto_destino;Dia;hora_salida;hora_llegada
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;12:00;13:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Lunes;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;12:00;13:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Martes;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;12:00;13:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Miércoles;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;12:00;13:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Jueves;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;08:30;09:50
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;10:00;11:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;10:30;11:50
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;12:00;13:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;12:30;13:50
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Viernes;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Sábado;20:00;21:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;06:00;07:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;08:00;09:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;14:00;15:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;16:00;17:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;18:00;19:20
+1;Bañaderos Express;Agaete;S. C. de Tenerife;Domingo;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;12:00;13:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Lunes;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;12:00;13:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Martes;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;12:00;13:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Miércoles;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;12:00;13:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Jueves;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;08:30;09:50
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;10:00;11:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;10:30;11:50
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;12:00;13:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;12:30;13:50
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Viernes;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Sábado;20:00;21:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;06:00;07:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;08:00;09:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;14:00;15:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;16:00;17:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;18:00;19:20
+2;Bañaderos Express;S. C. de Tenerife;Agaete;Domingo;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;12:00;13:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Lunes;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;12:00;13:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Martes;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;12:00;13:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Miércoles;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;12:00;13:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Jueves;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;08:30;09:50
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;10:00;11:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;10:30;11:50
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;12:00;13:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;12:30;13:50
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Viernes;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Sábado;20:00;21:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;06:00;07:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;08:00;09:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;14:00;15:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;16:00;17:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;18:00;19:20
+3;Bajamar Express;Agaete;S. C. de Tenerife;Domingo;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;12:00;13:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Lunes;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;12:00;13:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Martes;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;12:00;13:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Miércoles;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;12:00;13:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Jueves;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;08:30;09:50
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;10:00;11:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;10:30;11:50
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;12:00;13:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;12:30;13:50
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Viernes;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Sábado;20:00;21:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;06:00;07:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;08:00;09:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;14:00;15:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;16:00;17:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;18:00;19:20
+4;Bajamar Express;S. C. de Tenerife;Agaete;Domingo;20:00;21:20
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Lunes;09:30;11:30
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Lunes;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Martes;09:30;11:30
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Martes;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Miércoles;09:30;11:30
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Miércoles;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Jueves;09:00;11:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Jueves;09:30;11:30
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Jueves;15:00;17:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Jueves;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Jueves;21:00;23:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Viernes;09:00;11:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Viernes;15:00;17:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Viernes;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Viernes;21:00;23:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Sábado;09:00;11:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Sábado;10:30;12:30
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Sábado;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Domingo;09:00;11:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Domingo;15:00;17:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Domingo;19:00;21:00
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;Domingo;21:00;23:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Lunes;06:30;08:30
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Lunes;16:00;18:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Martes;06:30;08:30
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Martes;16:00;18:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Miércoles;06:30;08:30
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Miércoles;16:00;18:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Jueves;06:30;08:30
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Jueves;12:00;14:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Jueves;16:00;18:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Viernes;06:00;08:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Viernes;12:00;14:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Viernes;18:00;20:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Sábado;07:30;09:30
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Sábado;16:00;18:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Domingo;12:00;14:00
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;Domingo;18:00;20:00
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Lunes;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Lunes;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Lunes;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Martes;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Martes;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Martes;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Miércoles;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Miércoles;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Miércoles;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Jueves;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Jueves;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Jueves;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Viernes;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Viernes;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Viernes;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Sábado;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Sábado;13:00;13:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Sábado;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Sábado;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Domingo;09:30;10:20
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Domingo;13:00;13:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Domingo;16:00;16:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Domingo;20:00;20:50
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;Domingo;20:30;21:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Lunes;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Lunes;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Lunes;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Martes;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Martes;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Martes;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Miércoles;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Miércoles;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Miércoles;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Jueves;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Jueves;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Jueves;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Viernes;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Viernes;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Viernes;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Sábado;07:00;07:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Sábado;14:00;14:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Sábado;17:30;18:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Domingo;08:00;08:50
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Domingo;14:30;15:20
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;Domingo;17:30;18:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Lunes;17:00;19:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Martes;17:00;19:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Miércoles;17:00;19:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Jueves;17:00;19:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Viernes;17:00;19:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Sábado;12:00;14:20
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);Domingo;18:00;20:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Lunes;14:00;16:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Martes;14:00;16:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Miércoles;14:00;16:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Jueves;14:00;16:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Viernes;14:00;16:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Sábado;08:00;10:20
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;Domingo;15:00;17:20
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Lunes;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Lunes;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Martes;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Martes;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Miércoles;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Miércoles;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Jueves;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Jueves;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Viernes;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Viernes;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Sábado;08:30;11:00
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Sábado;19:00;21:30
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;Domingo;19:30;22:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Lunes;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Lunes;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Martes;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Martes;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Miércoles;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Miércoles;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Jueves;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Jueves;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Viernes;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Viernes;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Sábado;06:30;09:00
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Sábado;17:00;19:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Domingo;10:00;12:30
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;Domingo;17:00;19:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Lunes;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Lunes;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Martes;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Martes;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Miércoles;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Miércoles;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Jueves;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Jueves;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Viernes;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Viernes;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Sábado;08:30;11:00
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Sábado;19:00;21:30
+13;Bencomo Express;Los Cristianos;S.C. de La Palma;Domingo;09:30;12:25
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Lunes;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Lunes;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Martes;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Martes;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Miércoles;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Miércoles;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Jueves;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Jueves;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Viernes;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Viernes;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Sábado;06:30;09:00
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Sábado;17:00;19:30
+14;Bencomo Express;S.C. de La Palma;Los Cristianos;Domingo;17:00;19:30

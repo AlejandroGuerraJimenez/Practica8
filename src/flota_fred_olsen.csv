@@ -1,0 +1,15 @@
+idbase;nombre_barco;nombre_puerto_origen;nombre_puertodestino;latitud;longitud
+1;Bañaderos Express;Agaete;S. C. de Tenerife;28.0989;-15.7120
+2;Bañaderos Express;S. C. de Tenerife;Agaete;28.4685;-16.2453
+3;Bajamar Express;Agaete;S. C. de Tenerife;28.0989;-15.7120
+4;Bajamar Express;S. C. de Tenerife;Agaete;28.4685;-16.2453
+5;Betancuria Express;Las Palmas de G.C.;Morro Jable;28.1471;-15.4213
+6;Betancuria Express;Morro Jable;Las Palmas de G.C.;28.0482;-14.3615
+7;Benchijigua Express;Los Cristianos;S. S. de La Gomera;28.0482;-16.7194
+8;Benchijigua Express;S. S. de La Gomera;Los Cristianos;28.0898;-17.1083
+9;Benchijigua Express;Los Cristianos;Puerto de La Estaca (Valverde);28.0482;-16.7194
+10;Benchijigua Express;Puerto de La Estaca (Valverde);Los Cristianos;27.7861;-17.9002
+11;Benchijigua Express;Los Cristianos;S.C. de La Palma;28.0482;-16.7194
+12;Benchijigua Express;S.C. de La Palma;Los Cristianos;28.6781;-17.7657
+13;Bencomo Express;Los Cristianos;S. S. de La Gomera;28.0482;-16.7194
+14;Bencomo Express;S. S. de La Gomera;Los Cristianos;28.0898;-17.1083
